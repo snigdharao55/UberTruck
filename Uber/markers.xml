@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<locations>
+<location><id>1</id><long>33.831741</long><lat>-118.141211</lat><name>DRIVER</name></location>
+
+<location><id>1</id><long>40.700029</long><lat>-118.171361</lat><name>DRIVER</name></location>
+
+<location><id>2</id><long>35.345796</long><lat>-106.761136</lat><name>DRIVER</name></location>
+
+<location><id>3</id><long>31.188893</long><lat>-99.666317</lat><name>DRIVER</name></location>
+
+<location><id>4</id><long>41.416997</long><lat>-100.105171</lat><name>DRIVER</name></location>
+
+<location><id>5</id><long>43.679753</long><lat>-114.806808</lat><name>DRIVER</name></location>
+
+<location><id>6</id><long>40.366488, </long><lat>-83.355546</lat><name>DRIVER</name></location>
+
+<location><id>7</id><long>47.019503</long><lat>-94.765771</lat><name>DRIVER</name></location>
+
+<location><id>8</id><long>43.414683</long><lat>-75.821872</lat><name>DRIVER</name></location>
+
+<location><id>9</id><long>32.184700</long><lat>-86.866385</lat><name>DRIVER</name></location>
+
+<location><id>10</id><long>44.987608</long><lat>-84.598968</lat><name>DRIVER</name></location>
+
+<location><id>11</id><long>35.286114</long><lat>-97.033188</lat><name>DRIVER</name></location>
+
+</locations>
